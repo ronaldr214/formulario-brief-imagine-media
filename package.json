@@ -41,3 +41,8 @@
     "eslint-config-next": "14.0.4"
   }
 }
+{
+  "devDependencies": {
+    "tailwindcss-animate": "^1.0.7"
+  }
+}
